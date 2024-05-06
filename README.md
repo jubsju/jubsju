@@ -15,7 +15,7 @@
 <div align="center"> 
   
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sunfllowerzz?igsh=MXFjdnFmaml3eGE5OA==)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/julia-paiva-a78243268)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julia-paiva-a78243268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:Julitajupdo@gamil)
 
 </div>
